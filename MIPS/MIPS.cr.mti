@@ -1,0 +1,106 @@
+C:/Users/arian/Desktop/university/MIPS/MUX_ALUSrc.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/MUX_ALUSrc.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module Mux_ALUSrc
+
+Top level modules:
+	Mux_ALUSrc
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/RegisterFile.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/RegisterFile.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/InstMem.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/InstMem.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module InstMem
+
+Top level modules:
+	InstMem
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/MUX_AndGateOut.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/MUX_AndGateOut.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module Mux_AndGateOut
+
+Top level modules:
+	Mux_AndGateOut
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/MUX_MemtoReg.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/MUX_MemtoReg.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module Mux_MemtoReg
+
+Top level modules:
+	Mux_MemtoReg
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/SignExtend.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/SignExtend.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module SignExtend
+
+Top level modules:
+	SignExtend
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/DataMemory.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/DataMemory.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module DataMemory
+
+Top level modules:
+	DataMemory
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/ALUControl.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/ALUControl.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module ALUControl
+
+Top level modules:
+	ALUControl
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/PC.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/PC.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/ShiftLeft2.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/ShiftLeft2.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module ShiftLeft2
+
+Top level modules:
+	ShiftLeft2
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/Controller.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/Controller.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module MainControl
+
+Top level modules:
+	MainControl
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/AndGate.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/AndGate.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module AndGate
+
+Top level modules:
+	AndGate
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/MUX_RegDst.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/MUX_RegDst.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module MUX_RegDst
+
+Top level modules:
+	MUX_RegDst
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/ALU.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/ALU.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/arian/Desktop/university/MIPS/Add_ALU.v {1 {vlog -work work -nocovercells C:/Users/arian/Desktop/university/MIPS/Add_ALU.v
+Model Technology ModelSim ALTERA vlog 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Compiling module Add_ALU
+
+Top level modules:
+	Add_ALU
+
+} {} {}}

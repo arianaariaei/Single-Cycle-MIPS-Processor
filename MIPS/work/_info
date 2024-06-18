@@ -1,0 +1,215 @@
+m255
+K3
+13
+cModel Technology
+dC:\Users\arian\Desktop\university\ALU
+vAdd_ALU
+IHmN[2hVoJC827nV6@e;0^2
+Vf`@mHDd2a_:6PfR:WY4F10
+Z0 dC:\Users\arian\Desktop\university\MIPS
+w1717945948
+8C:/Users/arian/Desktop/university/MIPS/Add_ALU.v
+FC:/Users/arian/Desktop/university/MIPS/Add_ALU.v
+L0 1
+Z1 OV;L;6.3g_p1;37
+r1
+31
+Z2 o-work work -nocovercells -O0
+n@add_@a@l@u
+!s85 0
+vALU
+IgZ6RCSjRb=7SLk5RMCPZ;2
+V[mFgUf@AiF1ePi]jzc@@J1
+Z3 dC:\Users\arian\Desktop\university\MIPS
+w1717945482
+8C:/Users/arian/Desktop/university/MIPS/ALU.v
+FC:/Users/arian/Desktop/university/MIPS/ALU.v
+L0 1
+R1
+r1
+31
+R2
+n@a@l@u
+!s85 0
+vALUControl
+I8XIX2ci<c0W`QChdKKP`03
+VGT>TeQGEjCQ_[X54f@JZc0
+R3
+w1717945884
+8C:/Users/arian/Desktop/university/MIPS/ALUControl.v
+FC:/Users/arian/Desktop/university/MIPS/ALUControl.v
+L0 1
+R1
+r1
+31
+R2
+n@a@l@u@control
+!s85 0
+vAndGate
+IKVRGmB6Rni44[BGZZ_nSY0
+V772kMk5:IWD6=IgJ^WElh2
+R3
+w1717945989
+8C:/Users/arian/Desktop/university/MIPS/AndGate.v
+FC:/Users/arian/Desktop/university/MIPS/AndGate.v
+L0 1
+R1
+r1
+31
+R2
+n@and@gate
+!s85 0
+vDataMemory
+I<g;IEB9B7ef6DT:eeJ3I?1
+V3ISzce[hZ^=9hWk24k7G73
+R3
+w1718721528
+8C:/Users/arian/Desktop/university/MIPS/DataMemory.v
+FC:/Users/arian/Desktop/university/MIPS/DataMemory.v
+L0 1
+R1
+r1
+31
+R2
+n@data@memory
+!s85 0
+vInstMem
+ID_Y;XhE2P29<dQAgY5[_C1
+Vd5^0HnK5ZYTPR1c4MdEEI2
+R3
+w1718721725
+8C:/Users/arian/Desktop/university/MIPS/InstMem.v
+FC:/Users/arian/Desktop/university/MIPS/InstMem.v
+L0 1
+R1
+r1
+31
+R2
+n@inst@mem
+!s85 0
+vMainControl
+IHKlU>FiL5NNeEo5[e5=bD1
+VGo4;?[:Nl>Mjm@][Fh0gS3
+R3
+w1718721848
+8C:/Users/arian/Desktop/university/MIPS/Controller.v
+FC:/Users/arian/Desktop/university/MIPS/Controller.v
+L0 1
+R1
+r1
+31
+R2
+n@main@control
+!s85 0
+vMux_ALUSrc
+If@3g]BDO]SMRj^`hC4X?=1
+VZ@2XCdijI4<H>99C3m>zz2
+R3
+w1717945203
+8C:/Users/arian/Desktop/university/MIPS/MUX_ALUSrc.v
+FC:/Users/arian/Desktop/university/MIPS/MUX_ALUSrc.v
+L0 1
+R1
+r1
+31
+R2
+n@mux_@a@l@u@src
+!s85 0
+vMux_AndGateOut
+I[zbJPojlWHP;l6hBF7>l92
+V`>WekOOi4Z608HA^@g9Y=0
+R3
+w1717945370
+8C:/Users/arian/Desktop/university/MIPS/MUX_AndGateOut.v
+FC:/Users/arian/Desktop/university/MIPS/MUX_AndGateOut.v
+L0 1
+R1
+r1
+31
+R2
+n@mux_@and@gate@out
+!s85 0
+vMux_MemtoReg
+IM7gz7=kJ@H69:RUjN[1e01
+VIQPP=CbzEP21<dInkbVcY0
+R3
+w1717945287
+8C:/Users/arian/Desktop/university/MIPS/MUX_MemtoReg.v
+FC:/Users/arian/Desktop/university/MIPS/MUX_MemtoReg.v
+L0 1
+R1
+r1
+31
+R2
+n@mux_@memto@reg
+!s85 0
+vMUX_RegDst
+I[ZI;1SzE2ij^X]@KClTkL2
+V0MUYIATnn]EVjf=?g9g2B3
+R3
+w1717945091
+8C:/Users/arian/Desktop/university/MIPS/MUX_RegDst.v
+FC:/Users/arian/Desktop/university/MIPS/MUX_RegDst.v
+L0 1
+R1
+r1
+31
+R2
+n@m@u@x_@reg@dst
+!s85 0
+vPC
+I?7IefoKSVLFUaoPolBFfP0
+Vz0]BiaK2SSg[O98Fze]Dc2
+R3
+w1718721349
+8C:/Users/arian/Desktop/university/MIPS/PC.v
+FC:/Users/arian/Desktop/university/MIPS/PC.v
+L0 1
+R1
+r1
+31
+R2
+n@p@c
+!s85 0
+vRegisterFile
+I[bSnWUSB9bebeme1Z>cG:0
+V30HWc8O]b9RcdPj?A_8:V2
+R3
+w1718722182
+8C:/Users/arian/Desktop/university/MIPS/RegisterFile.v
+FC:/Users/arian/Desktop/university/MIPS/RegisterFile.v
+L0 1
+R1
+r1
+!s85 0
+31
+R2
+n@register@file
+vShiftLeft2
+IlF^fk<3ZC5EeUh=KjOk8i3
+VmczFd@MRHQJgFeRn_B5mG3
+R3
+w1718721464
+8C:/Users/arian/Desktop/university/MIPS/ShiftLeft2.v
+FC:/Users/arian/Desktop/university/MIPS/ShiftLeft2.v
+L0 1
+R1
+r1
+31
+R2
+n@shift@left2
+!s85 0
+vSignExtend
+Iao0j8IPOH=nSTDf4@jz<10
+V`hB6g81ZlPOhl7P@?[b`A2
+R3
+w1717944377
+8C:/Users/arian/Desktop/university/MIPS/SignExtend.v
+FC:/Users/arian/Desktop/university/MIPS/SignExtend.v
+L0 1
+R1
+r1
+31
+R2
+n@sign@extend
+!s85 0
